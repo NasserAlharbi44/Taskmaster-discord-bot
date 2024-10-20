@@ -39,11 +39,9 @@ Install required dependencies
 
 4- Create a bot and copy the token
 
-Configure the bot
+5- Open bot.py
 
-1- Open bot.py
-
-2- Replace bot.run('') with your bot token: bot.run('your-token-here')
+6- Replace bot.run('') with your bot token: bot.run('your-token-here')
 
 *📋 Requirements*
 -
