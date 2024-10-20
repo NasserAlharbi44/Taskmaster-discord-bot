@@ -28,11 +28,15 @@ Install required dependencies
 
 `pip install -r requirements.txt`
 
-Create a Discord bot and get your token:
+*Create a Discord bot and get your token:*
+-
 
 1- Go to the Discord Developer Portal
+
 2- Create a New Application
+
 3- Go to the Bot section
+
 4- Create a bot and copy the token
 
 Configure the bot
