@@ -1,41 +1,48 @@
-🤖 TaskMaster Discord Bot
+*🤖 TaskMaster Discord Bot*
 
 A feature-rich Discord bot for task management and reminders with built-in multi-language support (English & Arabic) and smart activity suggestions.
 
-✨ Features
+*✨ Features*
+-
 📅 Task Management: Add, view, and remove tasks with timestamps
+
 🌍 Multi-language Support: Switch between English and Arabic
+
 🎯 Smart Activity Suggestions: Get contextual tips based on task type
+
 ⏰ Automated Reminders: Receive notifications when tasks are due
+
 💪 Activity-Specific Tips: Specialized suggestions for gym, study, gaming, and work tasks
+
 🎨 Beautiful Formatted Messages: Clean and aesthetic task displays
 
-🛠️ Installation
-
+*🛠️ Installation*
+-
 1 - Clone this repository
-
+-
 git clone https://github.com/yourusername/taskmaster-discord-bot.git
+
 cd taskmaster-discord-bot
 
 2- Install required dependencies
-
+-
 pip install -r requirements.txt
 
 3- Create a Discord bot and get your token:
-
+-
 Go to the Discord Developer Portal
 Create a New Application
 Go to the Bot section
 Create a bot and copy the token
 
 4- Configure the bot
-
+-
 1- Open bot.py
 
 2- Replace bot.run('') with your bot token: bot.run('your-token-here')
 
-📋 Requirements
-
+*📋 Requirements*
+-
 discord.py>=2.0.0
 
 python-dateutil>=2.8.2
@@ -44,8 +51,8 @@ pip install discord.py
 
 pip install pytz
 
-💻 Commands
-
+*💻 Commands*
+-
 !setlang [en/ar] - Set your preferred language
 
 !addtask [HH:MM] [task] - Add a new task
@@ -56,20 +63,20 @@ pip install pytz
 
 !help - Show help message
 
-🌟 Smart Features
-
+*🌟 Smart Features*
+-
 Activity Categories
 
 The bot automatically categorizes tasks and provides relevant suggestions for:
 
 🏋️‍♂️ Gym/Workout sessions
-
+-
 📚 Study sessions
-
+-
 🎮 Gaming sessions
-
+-
 💼 Work tasks
-
+-
 Intelligent Reminders
 
 Contextual suggestions based on task type
@@ -78,8 +85,8 @@ Motivational messages in your preferred language
 
 Clean, formatted reminder messages
 
-📁 Project Structure
-
+*📁 Project Structure*
+-
 taskmaster-discord-bot
 
 bot.py                  # Main bot file
@@ -94,22 +101,22 @@ requirements.txt      # Project dependencies
  
 README.md            # Documentation
 
-🤝 Contributing
-
+*🤝 Contributing*
+-
 Contributions are welcome! Feel free to:
-
+-
 1- Fork the repository
-
+-
 2- Create a feature branch (git checkout -b feature/AmazingFeature)
-
+-
 3- Commit your changes (git commit -m 'Add some AmazingFeature')
-
+-
 4- Push to the branch (git push origin feature/AmazingFeature)
-
+-
 5- Open a Pull Request
-
-📝 License
-
+-
+*📝 License*
+-
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
