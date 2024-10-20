@@ -18,24 +18,24 @@ A feature-rich Discord bot for task management and reminders with built-in multi
 
 *🛠️ Installation*
 -
-1 - Clone this repository
+ Clone this repository
 
-git clone https://github.com/yourusername/taskmaster-discord-bot.git
+`git clone https://github.com/yourusername/taskmaster-discord-bot.git`
 
-cd taskmaster-discord-bot
+`cd taskmaster-discord-bot`
 
-2- Install required dependencies
+Install required dependencies
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
-3- Create a Discord bot and get your token:
+Create a Discord bot and get your token:
 
-Go to the Discord Developer Portal
-Create a New Application
-Go to the Bot section
-Create a bot and copy the token
+1- Go to the Discord Developer Portal
+2- Create a New Application
+3- Go to the Bot section
+4- Create a bot and copy the token
 
-4- Configure the bot
+Configure the bot
 
 1- Open bot.py
 
@@ -43,13 +43,13 @@ Create a bot and copy the token
 
 *📋 Requirements*
 -
-discord.py>=2.0.0
+`discord.py>=2.0.0`
 
-python-dateutil>=2.8.2
+`python-dateutil>=2.8.2`
 
-pip install discord.py
+`pip install discord.py`
 
-pip install pytz
+`pip install pytz`
 
 *💻 Commands*
 -
@@ -89,17 +89,17 @@ Clean, formatted reminder messages
 -
 taskmaster-discord-bot
 
-bot.py                  # Main bot file
+bot.py >>>                  # Main bot file
 
-create_lang_files.py   # Language file generator
+create_lang_files.py >>>   # Language file generator
 
-lang_en.json          # English language strings
+lang_en.json >>>          # English language strings
 
-lang_ar.json          # Arabic language strings
+lang_ar.json >>>         # Arabic language strings
 
-requirements.txt      # Project dependencies
+requirements.txt >>>      # Project dependencies
  
-README.md            # Documentation
+README.md >>>            # Documentation
 
 *🤝 Contributing*
 -
