@@ -93,9 +93,9 @@ taskmaster-discord-bot
 
 bot.py >>>                  # Main bot file
 
-lang_en.json >>>          # English language strings (You can edit this)
+lang_en.json >>>          # English language strings
 
-lang_ar.json >>>         # Arabic language strings (You can edit this)
+lang_ar.json >>>         # Arabic language strings
 
 requirements.txt >>>      # Project dependencies
  
