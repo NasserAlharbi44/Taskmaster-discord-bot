@@ -1,0 +1,18 @@
+{
+    "task_added": "Task added for {}",
+    "task_removed": "Removed task: {}",
+    "no_tasks": "No tasks found!",
+    "invalid_task": "Invalid task number!",
+    "invalid_time": "Invalid time format. Use HH:MM",
+    "your_tasks": "Your tasks:",
+    "reminder": "Reminder: {}",
+    "task_list_item": "{}. {} {} - {}",
+    "help": {
+        "title": "Task Management Bot Commands:",
+        "setlang": "!setlang [en/ar] - Set your preferred language",
+        "addtask": "!addtask [HH:MM] [task] - Add a new task",
+        "viewtasks": "!viewtasks - View all your tasks",
+        "removetask": "!removetask [number] - Remove a task by number",
+        "help": "!help - Show this help message"
+    }
+}
