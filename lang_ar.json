@@ -1,0 +1,18 @@
+{
+    "task_added": "{} تمت إضافة المهمة في",
+    "task_removed": "{} :تم حذف المهمة",
+    "no_tasks": "!لم يتم العثور على مهام",
+    "invalid_task": "!رقم المهمة غير صحيح",
+    "invalid_time": "HH:MM تنسيق الوقت غير صحيح. استخدم",
+    "your_tasks": ":مهامك",
+    "reminder": "{} :تذكير",
+    "task_list_item": "{} {} - {} .{}",
+    "help": {
+        "title": ":أوامر بوت إدارة المهام",
+        "setlang": "!setlang [en/ar] - تعيين لغتك المفضلة",
+        "addtask": "!addtask [HH:MM] [المهمة] - إضافة مهمة جديدة",
+        "viewtasks": "!viewtasks - عرض جميع مهامك",
+        "removetask": "!removetask [الرقم] - حذف مهمة برقمها",
+        "help": "!help - إظهار رسالة المساعدة هذه"
+    }
+}
